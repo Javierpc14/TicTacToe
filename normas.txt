@@ -1,0 +1,14 @@
+1 ¿Hay ganador?
+2. ¡Hay ganador!
+   - No eventos click (removeAttribute(onclick))
+   - contador de equipo suma 1.
+   - Reiniciar tablero (poniendo el textContent vacio y vuelvo a activar el settAtribute(onclick))
+   - opcional:
+        - mostrar linea ganadora (linea ganadora estilos).
+3. Contador tiempo para cambiar de turno (EXTRA) setTimeat.
+4. Minimos logicos de buen programador.
+    - Comentarios cabecera de funciones
+    - Buenas practicas variables(variable que sirve para...)
+    - No errores en consola
+    - Estilos
+    - Subirlo a GitHub
